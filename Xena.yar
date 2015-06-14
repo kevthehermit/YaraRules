@@ -2,7 +2,7 @@ rule Xena
 {
 	meta:
 		author = " Kevin Breen <kevin@techanarchy.net>"
-		date = "2014/04"
+		date = "2015/06"
 		ref = "http://malwareconfig.com/stats/Xena"
 		maltype = "Remote Access Trojan"
 		filetype = "exe"
